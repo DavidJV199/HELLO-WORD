@@ -1,2 +1,7 @@
 # HELLO-WORD
-Just another repository
+
+Hi Humans:
+Hola Humanos
+
+Iam from Jupiter
+soy de Jupiter
